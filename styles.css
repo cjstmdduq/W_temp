@@ -185,6 +185,7 @@ a {
 @media (max-width: 768px) {
   .hero {
     background-image: url("images/hero_mob.png");
+    min-height: 90vh;
   }
 }
 
